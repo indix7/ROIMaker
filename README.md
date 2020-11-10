@@ -1,2 +1,2 @@
 # ROIMaker
-for ROI auto make
+a script for ROI auto map
